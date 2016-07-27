@@ -4,9 +4,9 @@
 \name{logentries}
 \alias{logentries}
 \alias{logentries-package}
-\title{A package to ...}
+\title{R interface to LogEntries API}
 \description{
-A package to ...
+R interface to LogEntries API
 }
 \author{
 Bob Rudis (@hrbrmstr)

@@ -1,4 +1,4 @@
-#' A package to ...
+#' R interface to LogEntries API
 #'
 #' @name logentries
 #' @docType package

@@ -2,11 +2,14 @@
 output: rmarkdown::github_document
 ---
 
-`logentries` : ...
+`logentries` : R interface to LogEntries API
 
 The following functions are implemented:
 
-The following data sets are included:
+- `le_acct_key`: Get or set LOGENTRIES_ACCOUNT_KEY value
+- `le_read_log`: Read log data from LogEntries
+- `le_ro_key`: Get or set LOGENTRIES_READ_ONLY_KEY value
+- `le_write_log`:	Post log data to LogEntries
 
 ### Installation
 
